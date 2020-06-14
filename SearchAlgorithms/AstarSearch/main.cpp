@@ -122,8 +122,8 @@ int manhattan(struct node *myNode, int goal[3][3])
 					if(myNode->board[row0][col0] == goal[row1][col1])
 					{
 						diffx = (row0 - row1 < 0) ? row1 - row0 : row0 - row1;
-                        diffy = (col0 - col1 < 0) ? col1 - col0 : col0 - col1;
-                        distance += diffx + diffy;
+                        			diffy = (col0 - col1 < 0) ? col1 - col0 : col0 - col1;
+                        			distance += diffx + diffy;
 					}
 				}
 			}
