@@ -1,0 +1,12 @@
+Info:
+Oppgaven ble utført som den del av et gruppearbeid i emnet foundations of robotics.
+Dette er et emne jeg tok under mitt semester i Sør Korea. Oppgaven gikk ut på å få en
+robot til å parkere av seg selv ved å unngå hindringer som forhinder roboten i å parkere.
+Roboten utnytter blant annet LiDAR teknologi til å kartlegge omgivelsene og for å få inn data den
+trenger for å manøvrere seg fram.
+
+Programvare og kode: 
+Programmet er skrevet i Matlab med utvidelsen ROS (robot operating system).
+
+Demonstrasjonsvideo av prosjektet:
+https://drive.google.com/file/d/16yFfQ0yompvR98j7Sit5JQJMHx2hCKWo/view?usp=sharing
